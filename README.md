@@ -50,7 +50,13 @@ The application follows a strict state-driven lifecycle managed by a custom hook
 
 ## 📸 Screenshots
 
-- **Homepage**: Clean entry point with compatibility validation.
-- **Test Console (Idle)**: Ready state with setup instructions.
-- **Active Sharing**: Live preview with real-time resolution and lifecycle tracking.
-- **Error Handlers**: Specific messages for permission denial or cancellation.
+| Homepage | Test Console (Idle) |
+| :---: | :---: |
+| ![Homepage](./screenshots/homepage.png) | ![Console Idle](./screenshots/console-idle.png) |
+
+| Active Sharing Session | Error / Permission Denied |
+| :---: | :---: |
+| ![Active Stream](./screenshots/active-stream.png) | ![Error State](./screenshots/error-state.png) |
+
+---
+*Note: Please add your screenshot images to the `/screenshots` folder and rename them to match the filenames above to see them in this README.*
