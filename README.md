@@ -59,4 +59,4 @@ The application follows a strict state-driven lifecycle managed by a custom hook
 | ![Active Stream](./screenshots/active-stream.jpeg) | ![Error State](./screenshots/error-state.jpeg) |
 
 ---
-*Note: Please add your screenshot images to the `/screenshots` folder and rename them to match the filenames above to see them in this README.*
+
