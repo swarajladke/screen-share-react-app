@@ -52,11 +52,11 @@ The application follows a strict state-driven lifecycle managed by a custom hook
 
 | Homepage | Test Console (Idle) |
 | :---: | :---: |
-| ![Homepage](./screenshots/homepage.png) | ![Console Idle](./screenshots/console-idle.png) |
+| ![Homepage](./screenshots/homepage.jpeg) | ![Console Idle](./screenshots/console-idle.jpeg) |
 
 | Active Sharing Session | Error / Permission Denied |
 | :---: | :---: |
-| ![Active Stream](./screenshots/active-stream.png) | ![Error State](./screenshots/error-state.png) |
+| ![Active Stream](./screenshots/active-stream.jpeg) | ![Error State](./screenshots/error-state.jpeg) |
 
 ---
 *Note: Please add your screenshot images to the `/screenshots` folder and rename them to match the filenames above to see them in this README.*
